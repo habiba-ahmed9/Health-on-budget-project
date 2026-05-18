@@ -2,7 +2,7 @@
 
 Health on Budget is a responsive frontend web application designed to help users make informed decisions about their health and lifestyle through BMI analysis combined with budget-based wellness subscription plans. The project focuses on combining basic health awareness with financial accessibility through a simple and structured user experience.
 
-🔗 Live Demo: [](https://habiba-ahmed9.github.io/Health-on-budget-project/)
+🔗 Live Demo: [https://habiba-ahmed9.github.io/Health-on-budget-project/](https://habiba-ahmed9.github.io/Health-on-budget-project/)
 
 
 
@@ -18,6 +18,7 @@ This project connects personal health tracking with financial planning by allowi
 The application is fully frontend-based and uses browser storage for data persistence.
 
 
+
 ## Features
 
 ### Authentication System
@@ -26,6 +27,7 @@ The application is fully frontend-based and uses browser storage for data persis
 * Email validation and duplicate prevention
 * Session management using Session Storage
 * Persistent user data using Local Storage
+
 
 
 ### BMI Calculator
@@ -39,6 +41,7 @@ The application is fully frontend-based and uses browser storage for data persis
   * Overweight
   * Obese
 * BMI history tracking and storage
+
 
 
 ### Subscription Plans
@@ -70,6 +73,7 @@ Each plan is designed to match different budgets and lifestyle needs.
 * Local Storage API
 * Session Storage API
 * JSON (client-side data simulation)
+
 
 
 ## Project Structure
@@ -130,6 +134,11 @@ Alexandria University
 ## Note
 
 This project demonstrates frontend development skills including authentication flow, BMI calculation logic, responsive UI design, and client-side data management using JavaScript.
+
+
+
+
+
 
 
 
